@@ -19,6 +19,9 @@ The goal of this project is to demonstrate how to use built-in **JavaScript brow
 - **CSS**
 - **JavaScript (Vanilla JS)**
 
+##Live Demo
+    https://sanket-darunkar.github.io/DevDetector/
+
 ## 🚀 Getting Started
 
 To run the project locally:
