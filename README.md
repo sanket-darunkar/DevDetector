@@ -40,11 +40,6 @@ To run the project locally:
 - **navigator object**: Used to fetch user agent, platform, and browser info.
 - **window.screen**: Used to get screen resolution and dimensions.
 - **User agent parsing**: Basic string operations to extract data.
-
-## 📸 Preview
-
-> ![Screenshot](https://via.placeholder.com/600x300.png?text=DevDetector+Preview)
-
 ---
 
 > Built with ❤️ using just JavaScript — no frameworks, no fuss.
